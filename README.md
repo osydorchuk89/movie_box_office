@@ -4,6 +4,7 @@
 * Collected data about 5,000 highest-grossing movies
 * Explored the dataset to identify which movie features are related to their revenue
 * Built a model that predicts a movie revenue based on some of its features
+* Published [the article](https://medium.com/@oleksii.sydorchuk/what-makes-a-movie-popular-ea1379a6f986) on Medium summarizing key insights from the analysis
 
 ## Project structure
 The project is divided into two Jupyter notebooks:
