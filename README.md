@@ -4,7 +4,6 @@
 * Collected data about 5,000 highest-grossing movies
 * Explored the dataset to identify which movie features are related to their revenue
 * Built a model that predicts a movie revenue based on some of its features
-* Published an article on Medium summarizing key results of the analysis
 
 ## Project structure
 The project is divided into two Jupyter notebooks:
